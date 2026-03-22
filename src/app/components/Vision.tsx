@@ -1,4 +1,4 @@
-import founderImage from '../../../../../.cursor/projects/c-Users-Hp-Downloads-project-1/assets/c__Users_Hp_AppData_Roaming_Cursor_User_workspaceStorage_9977b1dd9e27752749b90bfffd6ff663_images_MY-PIC-019847bd-826e-44ea-b262-d4f30614447d.png'
+import founderImage from 'C:/Users/Hp/Downloads/project (1)/dist/assets/MY-PIC.png'
 
 export function Vision() {
   return (
